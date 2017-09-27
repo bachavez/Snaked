@@ -1,0 +1,17 @@
+{
+  "name": "pregame-snaked",
+  "version": "1.0.0",
+  "description": "My First Game using Phaserjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Brian Chavez following tutorial from Danny Markov-https://tutorialzine.com/2015/06/making-your-first-html5-game-with-phaser ",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5",
+    "phaser": "^2.6.2"
+  }
+}
